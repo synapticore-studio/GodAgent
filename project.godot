@@ -34,7 +34,7 @@ ai_assistant_hub/preferences/skip_greeting=false
 ai_assistant_hub/preferences/always_scroll_to_bottom=false
 ai_assistant_hub/llm_model="gpt-5-mini"
 ai_assistant_hub/preferences/border_color=Color(0, 1, 1, 1)
-ai_assistant_hub/last_chat_path="user://ai_assistant_hub/saved_chats/2026-01-26T15_25_12_Assistant_GodAgent.cfg"
+ai_assistant_hub/last_chat_path="user://ai_assistant_hub/saved_chats/2026-02-01T17_54_32_Assistant_GodAgent.cfg"
 
 [rendering]
 
