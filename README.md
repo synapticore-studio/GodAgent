@@ -1,5 +1,7 @@
 # GodAgent 🤖
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N71WOHZ3)
+
 **GodAgent** is a powerful plugin for Godot 4 that brings autonomous AI agents directly into the editor.  
 It allows you to interact with various language models (LLMs) and execute dynamic tools within your projects.
 
